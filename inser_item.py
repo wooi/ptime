@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 debug = True
 xml_path =  "/root/podcast/test.xml"
 if debug:
-    xml_path = "/Users/Wooi/WorkSpace/ptime/pod-ptime/test.xml"
+    xml_path = "/Users/Wooi/WorkSpace/ptime/pod-ptime/ptime.xml"
 else :
     xml_path = "/usr/share/nginx/html/ptime.xml"
 
