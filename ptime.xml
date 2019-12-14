@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" encoding="UTF-8" version="2.0">
+   <channel>
+	<fireside:hostname>web03.fireside.fm</fireside:hostname>
+	<fireside:genDate>Sat, 23 Mar 2019 02:57:08 -0500</fireside:genDate>
+	<generator>Fireside (https://fireside.fm)</generator>
+	<title>PTime</title>
+	<link>http://www.passiontimes.hk/prog/</link>
+	<pubDate>Sun, 10 Mar 2019 22:00:00 -0500</pubDate>
+	<description>熱血製造，最強頻道</description>
+	<language>zh-cn</language>
+	<itunes:type>episodic</itunes:type>
+	<itunes:subtitle>熱血製造，最強頻道</itunes:subtitle>
+	<itunes:author>PTime</itunes:author>
+	<itunes:summary>熱血製造，最強頻道</itunes:summary>
+	<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:owner>
+		<itunes:name>PTime</itunes:name>
+		<itunes:email>PTime@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="History" />
+	</itunes:category>
+	<itunes:category text="Music" />
+	<itunes:category text="Sports &amp; Recreation" />
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第66集 - 老蕭也移民-2</title>
+		<link>http://www.passiontimes.hk/prog/102/66</link>
+		<guid isPermaLink="false">102,66,2</guid>
+		<pubDate>2019-11-05</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/066/kingp20191105b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第66集 - 老蕭也移民-1</title>
+		<link>http://www.passiontimes.hk/prog/102/66</link>
+		<guid isPermaLink="false">102,66,1</guid>
+		<pubDate>2019-11-05</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/066/kingp20191105a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第63集 - 關於選舉，我想說的風涼話-2</title>
+		<link>http://www.passiontimes.hk/prog/102/63</link>
+		<guid isPermaLink="false">102,63,2</guid>
+		<pubDate>2019-10-15</pubDate>
+		<author>黃洋達、陳秀慧、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/063/kingp20191015b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第63集 - 關於選舉，我想說的風涼話-1</title>
+		<link>http://www.passiontimes.hk/prog/102/63</link>
+		<guid isPermaLink="false">102,63,1</guid>
+		<pubDate>2019-10-15</pubDate>
+		<author>黃洋達、陳秀慧、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/063/kingp20191015a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第64集 - 毋懼分化，盡情柴台-2</title>
+		<link>http://www.passiontimes.hk/prog/102/64</link>
+		<guid isPermaLink="false">102,64,2</guid>
+		<pubDate>2019-10-22</pubDate>
+		<author>黃洋達、陳秀慧、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/064/kingp20191022b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第64集 - 毋懼分化，盡情柴台-1</title>
+		<link>http://www.passiontimes.hk/prog/102/64</link>
+		<guid isPermaLink="false">102,64,1</guid>
+		<pubDate>2019-10-22</pubDate>
+		<author>黃洋達、陳秀慧、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/064/kingp20191022a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第65集 - 革命發源地：飯堂-2</title>
+		<link>http://www.passiontimes.hk/prog/102/65</link>
+		<guid isPermaLink="false">102,65,2</guid>
+		<pubDate>2019-10-29</pubDate>
+		<author>黃洋達、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/065/kingp20191029b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第65集 - 革命發源地：飯堂-1</title>
+		<link>http://www.passiontimes.hk/prog/102/65</link>
+		<guid isPermaLink="false">102,65,1</guid>
+		<pubDate>2019-10-29</pubDate>
+		<author>黃洋達、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/065/kingp20191029a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第905集 - 作故仔造謠呃LIKE，會落地獄/黑魔后2、Frozen2，會唔會太過Marvel啦？/《朴娜勑：魅力禁不住》喺韓國開棟篤笑唯有開黃腔/香港消費者的適應力-4</title>
+		<link>http://www.passiontimes.hk/prog/84/905</link>
+		<guid isPermaLink="false">84,905,4</guid>
+		<pubDate>2019-10-21</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/905/national20191021d.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第905集 - 作故仔造謠呃LIKE，會落地獄/黑魔后2、Frozen2，會唔會太過Marvel啦？/《朴娜勑：魅力禁不住》喺韓國開棟篤笑唯有開黃腔/香港消費者的適應力-3</title>
+		<link>http://www.passiontimes.hk/prog/84/905</link>
+		<guid isPermaLink="false">84,905,3</guid>
+		<pubDate>2019-10-21</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/905/national20191021c.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第905集 - 作故仔造謠呃LIKE，會落地獄/黑魔后2、Frozen2，會唔會太過Marvel啦？/《朴娜勑：魅力禁不住》喺韓國開棟篤笑唯有開黃腔/香港消費者的適應力-2</title>
+		<link>http://www.passiontimes.hk/prog/84/905</link>
+		<guid isPermaLink="false">84,905,2</guid>
+		<pubDate>2019-10-21</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/905/national20191021b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第905集 - 作故仔造謠呃LIKE，會落地獄/黑魔后2、Frozen2，會唔會太過Marvel啦？/《朴娜勑：魅力禁不住》喺韓國開棟篤笑唯有開黃腔/香港消費者的適應力-1</title>
+		<link>http://www.passiontimes.hk/prog/84/905</link>
+		<guid isPermaLink="false">84,905,1</guid>
+		<pubDate>2019-10-21</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/905/national20191021a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第907集 - Uniqlo超級老撚土廣告/陳同佳去邊好？熱血時報招緊主持喎/NBA揭幕戰，LA見撐港Tee如見鬼/四大美人：西施-4</title>
+		<link>http://www.passiontimes.hk/prog/84/907</link>
+		<guid isPermaLink="false">84,907,4</guid>
+		<pubDate>2019-10-23</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/907/national20191023d.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第907集 - Uniqlo超級老撚土廣告/陳同佳去邊好？熱血時報招緊主持喎/NBA揭幕戰，LA見撐港Tee如見鬼/四大美人：西施-3</title>
+		<link>http://www.passiontimes.hk/prog/84/907</link>
+		<guid isPermaLink="false">84,907,3</guid>
+		<pubDate>2019-10-23</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/907/national20191023c.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第907集 - Uniqlo超級老撚土廣告/陳同佳去邊好？熱血時報招緊主持喎/NBA揭幕戰，LA見撐港Tee如見鬼/四大美人：西施-2</title>
+		<link>http://www.passiontimes.hk/prog/84/907</link>
+		<guid isPermaLink="false">84,907,2</guid>
+		<pubDate>2019-10-23</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/907/national20191023b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第907集 - Uniqlo超級老撚土廣告/陳同佳去邊好？熱血時報招緊主持喎/NBA揭幕戰，LA見撐港Tee如見鬼/四大美人：西施-1</title>
+		<link>http://www.passiontimes.hk/prog/84/907</link>
+		<guid isPermaLink="false">84,907,1</guid>
+		<pubDate>2019-10-23</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/907/national20191023a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第910集 - 紅樓夢囈：762與曹雪芹的肚兜情趣/跑步要申請不反對通知書/G-DRAGON正式退伍 成個韓國等GD救世/奇幻逆緣：街坊盛讚黃洋達擂台退藍絲-4</title>
+		<link>http://www.passiontimes.hk/prog/84/910</link>
+		<guid isPermaLink="false">84,910,4</guid>
+		<pubDate>2019-10-28</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/910/national20191028d.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第910集 - 紅樓夢囈：762與曹雪芹的肚兜情趣/跑步要申請不反對通知書/G-DRAGON正式退伍 成個韓國等GD救世/奇幻逆緣：街坊盛讚黃洋達擂台退藍絲-3</title>
+		<link>http://www.passiontimes.hk/prog/84/910</link>
+		<guid isPermaLink="false">84,910,3</guid>
+		<pubDate>2019-10-28</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/910/national20191028c.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第910集 - 紅樓夢囈：762與曹雪芹的肚兜情趣/跑步要申請不反對通知書/G-DRAGON正式退伍 成個韓國等GD救世/奇幻逆緣：街坊盛讚黃洋達擂台退藍絲-2</title>
+		<link>http://www.passiontimes.hk/prog/84/910</link>
+		<guid isPermaLink="false">84,910,2</guid>
+		<pubDate>2019-10-28</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/910/national20191028b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第910集 - 紅樓夢囈：762與曹雪芹的肚兜情趣/跑步要申請不反對通知書/G-DRAGON正式退伍 成個韓國等GD救世/奇幻逆緣：街坊盛讚黃洋達擂台退藍絲-1</title>
+		<link>http://www.passiontimes.hk/prog/84/910</link>
+		<guid isPermaLink="false">84,910,1</guid>
+		<pubDate>2019-10-28</pubDate>
+		<author>黃洋達、762、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/910/national20191028a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第912集 - 四大美人：陳圓圓/吳三桂的階段性勝利/Eric與阿A的《西施》/蒙面法下的哈佬喂-4</title>
+		<link>http://www.passiontimes.hk/prog/84/912</link>
+		<guid isPermaLink="false">84,912,4</guid>
+		<pubDate>2019-10-30</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/912/national20191030d.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第912集 - 四大美人：陳圓圓/吳三桂的階段性勝利/Eric與阿A的《西施》/蒙面法下的哈佬喂-3</title>
+		<link>http://www.passiontimes.hk/prog/84/912</link>
+		<guid isPermaLink="false">84,912,3</guid>
+		<pubDate>2019-10-30</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/912/national20191030c.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第912集 - 四大美人：陳圓圓/吳三桂的階段性勝利/Eric與阿A的《西施》/蒙面法下的哈佬喂-2</title>
+		<link>http://www.passiontimes.hk/prog/84/912</link>
+		<guid isPermaLink="false">84,912,2</guid>
+		<pubDate>2019-10-30</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/912/national20191030b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第912集 - 四大美人：陳圓圓/吳三桂的階段性勝利/Eric與阿A的《西施》/蒙面法下的哈佬喂-1</title>
+		<link>http://www.passiontimes.hk/prog/84/912</link>
+		<guid isPermaLink="false">84,912,1</guid>
+		<pubDate>2019-10-30</pubDate>
+		<author>黃洋達、阿A</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/912/national20191030a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、阿A</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、阿A</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>笑死朕 第459集 - 情迷紐約下雨天：活地阿倫回春返鄉-2</title>
+		<link>http://www.passiontimes.hk/prog/5/459</link>
+		<guid isPermaLink="false">5,459,2</guid>
+		<pubDate>2019-11-01</pubDate>
+		<author>黃洋達</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/05/459/king20191101b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>笑死朕 第459集 - 情迷紐約下雨天：活地阿倫回春返鄉-1</title>
+		<link>http://www.passiontimes.hk/prog/5/459</link>
+		<guid isPermaLink="false">5,459,1</guid>
+		<pubDate>2019-11-01</pubDate>
+		<author>黃洋達</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/05/459/king20191101a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第62集 - 神奇膠大風暴-1</title>
+		<link>http://www.passiontimes.hk/prog/102/62</link>
+		<guid isPermaLink="false">102,62,1</guid>
+		<pubDate>2019-03-26</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/034/kingp20190326a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>國立大台 第902集 - 政府攝影師，寇比力克鏡頭的暗示 / 林鄭維穩都唔識，點到習總唔吊頸 / 新音樂畫冊計劃：四大美人 / 台慶劇香港愛情，演出陣容-1</title>
+		<link>http://www.passiontimes.hk/prog/84/902</link>
+		<guid isPermaLink="false">84,902,1</guid>
+		<pubDate>2019-02-11</pubDate>
+		<author>黃洋達、762、Darling、VVN</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/84/725/national20190211a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、762、Darling、VVN</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、762、Darling、VVN</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>笑死朕 第456集 - SLAM DUNK：時代革命-1</title>
+		<link>http://www.passiontimes.hk/prog/5/456</link>
+		<guid isPermaLink="false">5,456,1</guid>
+		<pubDate>2019-10-11</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/05/427/king20190322a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+</channel>
+</rss>
