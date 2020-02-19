@@ -25,6 +25,108 @@
 	<itunes:category text="Music" />
 	<itunes:category text="Sports &amp; Recreation" />
 	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第82集 - 人情世故的標準-2</title>
+		<link>http://www.passiontimes.hk/prog/102/82</link>
+		<guid isPermaLink="false">102,82,2</guid>
+		<pubDate>2020-02-18</pubDate>
+		<author>黃洋達、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/082/kingp20200218b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第82集 - 人情世故的標準-1</title>
+		<link>http://www.passiontimes.hk/prog/102/82</link>
+		<guid isPermaLink="false">102,82,1</guid>
+		<pubDate>2020-02-18</pubDate>
+		<author>黃洋達、法子</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/082/kingp20200218a1.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、法子</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、法子</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第81集 - 熱血時報高層異聞錄-2</title>
+		<link>http://www.passiontimes.hk/prog/102/81</link>
+		<guid isPermaLink="false">102,81,2</guid>
+		<pubDate>2020-02-11</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/081/kingp20200211b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>棟篤笑死朕Sit Down Comedy 第81集 - 熱血時報高層異聞錄-1</title>
+		<link>http://www.passiontimes.hk/prog/102/81</link>
+		<guid isPermaLink="false">102,81,1</guid>
+		<pubDate>2020-02-11</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/102/081/kingp20200211a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>笑死朕 第474集 - 無聊情人節：教日本人玩大富翁-2</title>
+		<link>http://www.passiontimes.hk/prog/5/474</link>
+		<guid isPermaLink="false">5,474,2</guid>
+		<pubDate>2020-02-14</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/05/474/king20200214b.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>笑死朕 第474集 - 無聊情人節：教日本人玩大富翁-1</title>
+		<link>http://www.passiontimes.hk/prog/5/474</link>
+		<guid isPermaLink="false">5,474,1</guid>
+		<pubDate>2020-02-14</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://ptmirror.passiontimes.hk/cache/05/474/king20200214a.mp3" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
 		<title>國立大台 第985集 - 2003嘅Neway卡拉OK，2020嘅打邊爐/香港行山樂：軍事考古有加乘/韓母VR再遇亡女 何必再喺傷口上灑鹽/Rose Eken 普普日用品-4</title>
 		<link>http://www.passiontimes.hk/prog/84/985</link>
 		<guid isPermaLink="false">84,985,4</guid>
