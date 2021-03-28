@@ -17,7 +17,7 @@ page_link = 'http://www.passiontimes.hk'
 def get_detail(urls,prog):
     for url in urls:
         channel_link = url
-        channel_response = requests.get(channel_link, timeout=15)
+        channel_response = requests.get(channel_link, timeout=60)
         channel_html = channel_response.content.decode("utf8", "ignore").encode("utf", "ignore")
         channel_content = BeautifulSoup(channel_html, "html.parser", from_encoding='utf-8')
 
@@ -63,7 +63,7 @@ for index in home_index:
     home_link = page_link+"/prog/{}/".format(index)
     
     print home_link
-    page_response = requests.get(home_link, timeout=15)
+    page_response = requests.get(home_link, timeout=60)
     html = page_response.content
     html2 = html.decode("utf8", "ignore").encode("utf", "ignore")
     page_content = BeautifulSoup(html2, "html.parser", from_encoding='utf-8')
