@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" encoding="UTF-8" version="2.0">
+   <channel>
+	<fireside:hostname>web03.fireside.fm</fireside:hostname>
+	<fireside:genDate>Sat, 23 Mar 2019 02:57:08 -0500</fireside:genDate>
+	<generator>Fireside (https://fireside.fm)</generator>
+	<title>PTime</title>
+	<link>http://www.passiontimes.hk/prog/</link>
+	<pubDate>Sun, 10 Mar 2019 22:00:00 -0500</pubDate>
+	<description>熱血製造，最強頻道</description>
+	<language>zh-cn</language>
+	<itunes:type>episodic</itunes:type>
+	<itunes:subtitle>熱血製造，最強頻道</itunes:subtitle>
+	<itunes:author>PTime</itunes:author>
+	<itunes:summary>熱血製造，最強頻道</itunes:summary>
+	<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:owner>
+		<itunes:name>PTime</itunes:name>
+		<itunes:email>PTime@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:category text="Society & Culture">
+		<itunes:category text="History" />
+	</itunes:category>
+	<itunes:category text="Music" />
+	<itunes:category text="Sports & Recreation" />
+	<item>
+		<title>Part 1 - 傳敗燈宣佈外交杯葛冬奧／中美發表氣候聯合聲明、習拜視象會面為減關稅舖路／賀錦麗的尷尬</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35776</guid>
+		<pubDate>20211118</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118a.mp3?h=96uqgDZOPBDtLfd9FJrs0A&e=1637605188" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 見面交收400萬加密貨幣變綁架案／淺談加密貨幣風險／FoodPanda罷工究竟會唔會成功？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35777</guid>
+		<pubDate>20211118</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118b.mp3?h=96uqgDZOPBDtLfd9FJrs0A&e=1637605188" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 彭帥引起WTA關注，相葉爾凡失蹤11個月國際足協提都唔提／細數著名反共體育名星／白俄難民炸彈遇上極右波蘭</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35778</guid>
+		<pubDate>20211118</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118c.mp3?h=96uqgDZOPBDtLfd9FJrs0A&e=1637605188" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 美隊二代被重判5年9個月／紅酒變汽油彈案、襲警無罪案反映律政司掌絕對司法權／野豬襲警埋下滅種之禍</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35755</guid>
+		<pubDate>20211116</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116a.mp3?h=ilaCyWztdkrZPMzKM7fweg&e=1637605190" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - FoodPanda罷工究竟會唔會成功？無職工盟反而嬴面仲大？／鬧兩電加電費前，唔該自己先睇番能源組合同咩叫利潤管制協議，話引入競爭可以減電費係白痴</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35756</guid>
+		<pubDate>20211116</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116b.mp3?h=ilaCyWztdkrZPMzKM7fweg&e=1637605190" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 周顯話年青人全部去哂炒美股，成班KOL解讀錯哂</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35757</guid>
+		<pubDate>20211116</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116c.mp3?h=ilaCyWztdkrZPMzKM7fweg&e=1637605190" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 金融時報指泛民可制衡政府開支錯哂／共同犯罪不包涵暴動罪對無辜市民叫好過無／呼籲投白票被老廉拉下馬威</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35725</guid>
+		<pubDate>20211111</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111a.mp3?h=2ppUwPHWJf3io1wQ1y4_Aw&e=1637605194" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 偏見書房的自由定價問題：當左膠理想烏托邦面對人性</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35726</guid>
+		<pubDate>20211111</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111b.mp3?h=2ppUwPHWJf3io1wQ1y4_Aw&e=1637605194" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 路透社攻台六步驟／點解咁多國軍高官變哂投降派？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35727</guid>
+		<pubDate>20211111</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111c.mp3?h=2ppUwPHWJf3io1wQ1y4_Aw&e=1637605194" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 方國珊最後一刻棄選立會改推林素蔚／民建聯贏盡都係18席／金融時報指泛民可制衡政府開支錯哂</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35701</guid>
+		<pubDate>20211109</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109a.mp3?h=WOaIh1Xr2j159853urupVA&e=1637605196" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 福爾摩亨仔細分析燒山食狗屎事件：究竟有無被打？點解我一早已覺得係流？點解一定同政治無關？點東方點解搶閘報流料？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35702</guid>
+		<pubDate>20211109</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109b.mp3?h=WOaIh1Xr2j159853urupVA&e=1637605196" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 美國眾議院通過萬億基建法案／美國赤字預算上限延遲至12月再表決：美國的確需要大規模重整基建，但唔係用呢種方法</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35703</guid>
+		<pubDate>20211109</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109c.mp3?h=WOaIh1Xr2j159853urupVA&e=1637605196" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 華記正能樣撤回反林鄭連任聯盟始末／石房有傳移民英國海外國際線無能為力／國安法工作紙看亂世求生</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35666</guid>
+		<pubDate>20211104</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104a.mp3?h=cZ6fDoprwc9SyYjJHyuloQ&e=1637605199" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 再講元宇宙／ELON MUSK噏幾句中文被KOL爭相解構／娛樂至死就係講緊黃標KOL</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35667</guid>
+		<pubDate>20211104</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104b.mp3?h=cZ6fDoprwc9SyYjJHyuloQ&e=1637605199" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 中俄聯合戰略巡航／耶倫表態中美各減關稅將有助解決通漲問題／只有華人先關注中國最惠國待遇問題</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35668</guid>
+		<pubDate>20211104</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104c.mp3?h=cZ6fDoprwc9SyYjJHyuloQ&e=1637605199" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 黃標KOL反對強制安心出行，卻支持強制打疫苗／客觀評析安心出行有幾廢／民主、人權係兩個獨立概念</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35643</guid>
+		<pubDate>20211102</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102a.mp3?h=iZ0PIG6vozdi27SqBcEFHQ&e=1637605201" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 譚香文任亮憲參選立法會，黃屍點解咁激動？新思維民主思路點叫非建制派？許智峰搞白票運動／中共會立法強制投票嗎？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35644</guid>
+		<pubDate>20211102</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102b.mp3?h=iZ0PIG6vozdi27SqBcEFHQ&e=1637605201" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 大陸控疫邏輯：抗體、醫療體系薄弱、自由成本廉價／點解仲未接種第三、第四針？／日本眾議院選舉</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35645</guid>
+		<pubDate>20211102</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102c.mp3?h=iZ0PIG6vozdi27SqBcEFHQ&e=1637605201" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 華記發動梁營向林鄭總攻擊？防疫、郊野公園為最大衝突／禁運龍蝦係咪國安議題？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35613</guid>
+		<pubDate>20211028</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028a.mp3?h=DKHoGjzXafdBwJDQBV4jtQ&e=1637605203" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 李雲迪靚仔有錢有才華都要叫雞？／點會用支付寶咁失策？／試當真感想：就係嬲、就係唔忿氣</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35614</guid>
+		<pubDate>20211028</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028b.mp3?h=DKHoGjzXafdBwJDQBV4jtQ&e=1637605203" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 咩係元宇宙？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35615</guid>
+		<pubDate>20211028</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028c.mp3?h=DKHoGjzXafdBwJDQBV4jtQ&e=1637605203" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 渣馬叫「香港加油」被警方取締／二代美國隊長將就《國安法》判刑／政府又搞限呎樓；海外醫生議案容許輸入大陸醫生</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35592</guid>
+		<pubDate>20211026</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026a.mp3?h=HcNn3DZzgmUZrz58bbJSeQ&e=1637605206" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 從刪Ｑ案看香港時事評論員的不堪／李雲迪點解靚仔有錢有才華都叫雞？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35593</guid>
+		<pubDate>20211026</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026b.mp3?h=HcNn3DZzgmUZrz58bbJSeQ&e=1637605206" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - XXXX走佬英國／XXXX反映最典型港仔心態</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35594</guid>
+		<pubDate>20211026</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026c.mp3?h=HcNn3DZzgmUZrz58bbJSeQ&e=1637605206" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 邵嵐希臘示威被捕，點都好過移民KOL／陳同佳案的法律解釋／國殤之柱移走毋須感傷，人人都係國殤之柱</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35556</guid>
+		<pubDate>20211021</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211021a.mp3?h=hcglbtxxN0ghtVcgoN9nQg&e=1637605209" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 中大聯合書院學生會解散／香港三大法律系因社會事件排名大跌？咁點解清華大學法律系排名37？一直叫不應以大學排名作為評審大學標準，一直D人就係以排名論斷</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35557</guid>
+		<pubDate>20211021</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211021b.mp3?h=hcglbtxxN0ghtVcgoN9nQg&e=1637605209" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - BITCOIN ETF上市／唔好講滯漲，連通漲都係00後未遇過嘅事</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35558</guid>
+		<pubDate>20211021</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211021c.mp3?h=hcglbtxxN0ghtVcgoN9nQg&e=1637605209" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 林鄭PK竟成全城慶賀網上頭條：上任之初努力成好人，終難擺脫共黨擺佈</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35532</guid>
+		<pubDate>20211019</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211019a.mp3?h=FbCTXp2TDCFQlfdYTqHlTw&e=1637605211" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 商務部長Gina Raimondo發表保護私人建議書，宣佈放生TikTok、WeChat／富途牛牛被中共打壓有無危險？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35533</guid>
+		<pubDate>20211019</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211019b.mp3?h=FbCTXp2TDCFQlfdYTqHlTw&e=1637605211" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 八國聯軍是正義之師被禁定係自我審查？／淺談八國聯軍之役與其是否正義之師</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&program_id=205</link>
+		<guid isPermaLink="false">35534</guid>
+		<pubDate>20211019</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211019c.mp3?h=FbCTXp2TDCFQlfdYTqHlTw&e=1637605211" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+
+</channel>
+</rss>
