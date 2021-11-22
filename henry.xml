@@ -7,17 +7,17 @@
 	<title>PTime</title>
 	<link>http://www.passiontimes.hk/prog/</link>
 	<pubDate>Sun, 10 Mar 2019 22:00:00 -0500</pubDate>
-	<description>熱血製造，最強頻道</description>
+	<description>論盡時事、經濟</description>
 	<language>zh-cn</language>
 	<itunes:type>episodic</itunes:type>
-	<itunes:subtitle>熱血製造，最強頻道</itunes:subtitle>
-	<itunes:author>PTime</itunes:author>
-	<itunes:summary>熱血製造，最強頻道</itunes:summary>
-	<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+	<itunes:subtitle>論盡時事、經濟</itunes:subtitle>
+	<itunes:author>亨利、Lano</itunes:author>
+	<itunes:summary>論盡時事、經濟</itunes:summary>
+	<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:owner>
-		<itunes:name>PTime</itunes:name>
-		<itunes:email>PTime@gmail.com</itunes:email>
+		<itunes:name>亨利</itunes:name>
+		<itunes:email>hr@gmail.com</itunes:email>
 	</itunes:owner>
 	<itunes:category text="Society & Culture">
 		<itunes:category text="History" />
