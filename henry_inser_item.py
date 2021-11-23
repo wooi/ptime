@@ -157,7 +157,7 @@ def get_cid():
 
 def replace_str():
     with open(xml_path) as f:
-        newText = f.read().replace('&amp;', '&')
+        newText = f.read().replace('&amp;e', '&e')
 
     with open(xml_path, "w") as f:
         f.write(newText)

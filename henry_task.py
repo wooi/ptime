@@ -11,6 +11,7 @@ import json
 from xml.etree.ElementTree import ElementTree, Element
 from xml_praser import *
 import re
+from datetime import datetime
 
 home_index = ["5", "84", "102"]
 # home_index = ["84"]
@@ -84,8 +85,9 @@ for item in list[::-1]:
         continue
     print item
     url = item[3].replace("&amp;e", "&e")
+    date = datetime.strptime(item[2], '%Y%m%d').strftime('%Y-%m-%d')
 
-    write2xml(title_str=item[0], link_str=page_link, guid_str=item[1], pubDate_str=item[2], author_str="henry",
+    write2xml(title_str=item[0], link_str=page_link, guid_str=item[1], pubDate_str=date, author_str="henry",
               download_link=url)
 
 replace_str()
