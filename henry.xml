@@ -4,8 +4,8 @@
 	<fireside:hostname>web03.fireside.fm</fireside:hostname>
 	<fireside:genDate>Sat, 23 Mar 2019 02:57:08 -0500</fireside:genDate>
 	<generator>Fireside (https://fireside.fm)</generator>
-	<title>PTime</title>
-	<link>http://www.passiontimes.hk/prog/</link>
+	<title>亨鏗有聲</title>
+	<link>http://www.mihk.tv/channel/index.php?route=mihk/live</link>
 	<pubDate>Sun, 10 Mar 2019 22:00:00 -0500</pubDate>
 	<description>論盡時事、經濟</description>
 	<language>zh-cn</language>
@@ -13,7 +13,7 @@
 	<itunes:subtitle>論盡時事、經濟</itunes:subtitle>
 	<itunes:author>亨利</itunes:author>
 	<itunes:summary>論盡時事、經濟</itunes:summary>
-	<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+	<itunes:image href="https://cdn.mihk.tv/image/logo.jpg" />
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:owner>
 		<itunes:name>亨利</itunes:name>
@@ -25,12 +25,114 @@
 	<itunes:category text="Music" />
 	<itunes:category text="Sports &amp; Recreation" />
 	<item>
+		<title>Part 1 - 歐洲爆發反防疫示威，燒山終向市場屈服放棄強制疫苗，老千石繼續為共產黨強制打針助威／立法會選舉無人敢鬧潘焯鴻？ </title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
+		<guid isPermaLink="false">35834</guid>
+		<pubDate>2021-11-25</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211125a.mp3?h=meM6APsm798rgDzwAZdqYg&e=1638081457" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 鍾瀚林判監43個月</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
+		<guid isPermaLink="false">35835</guid>
+		<pubDate>2021-11-25</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211125b.mp3?h=meM6APsm798rgDzwAZdqYg&e=1638081457" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 中國點收緊，Crypto係會繼續炒／Kyle Rittenhouse事件應該企邊邊？</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
+		<guid isPermaLink="false">35836</guid>
+		<pubDate>2021-11-25</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211125c.mp3?h=meM6APsm798rgDzwAZdqYg&e=1638081457" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 1 - 燒山老千石亂噏野豬鬥癲</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
+		<guid isPermaLink="false">35814</guid>
+		<pubDate>2021-11-23</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211123a.mp3?h=heHOOG8GebfVtX2HxRRkiA&e=1638081460" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 2 - 林二汶上TVB為宣揚音樂？／曾志偉多番拜VIUTV山頭反映已接受弱台事實／大陸綜藝節目係勁，但唔啱香港人睇</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
+		<guid isPermaLink="false">35815</guid>
+		<pubDate>2021-11-23</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211123b.mp3?h=heHOOG8GebfVtX2HxRRkiA&e=1638081460" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>Part 3 - 戴琪阻止SK於無錫設廠，但預告增加出口雞肉的啟示／WTA與立陶苑對中國企硬與敗燈無關／賀錦麗的尷尬</title>
+		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
+		<guid isPermaLink="false">35816</guid>
+		<pubDate>2021-11-23</pubDate>
+		<author>henry</author>
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211123c.mp3?h=heHOOG8GebfVtX2HxRRkiA&e=1638081460" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>henry</itunes:author>
+		<itunes:subtitle>henry</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
+		<description>henry</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
 		<title>Part 1 - 傳敗燈宣佈外交杯葛冬奧／中美發表氣候聯合聲明、習拜視象會面為減關稅舖路／賀錦麗的尷尬</title>
 		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
 		<guid isPermaLink="false">35776</guid>
 		<pubDate>2021-11-18</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118a.mp3?h=wlSQOeKGR52na5aWo_0aJg&e=1637606228" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118a.mp3?h=5zaXqai_utqUF6sjn-rdbg&e=1638081462" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -47,7 +149,7 @@
 		<guid isPermaLink="false">35777</guid>
 		<pubDate>2021-11-18</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118b.mp3?h=wlSQOeKGR52na5aWo_0aJg&e=1637606228" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118b.mp3?h=5zaXqai_utqUF6sjn-rdbg&e=1638081462" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -64,7 +166,7 @@
 		<guid isPermaLink="false">35778</guid>
 		<pubDate>2021-11-18</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118c.mp3?h=wlSQOeKGR52na5aWo_0aJg&e=1637606228" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211118c.mp3?h=5zaXqai_utqUF6sjn-rdbg&e=1638081462" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -81,7 +183,7 @@
 		<guid isPermaLink="false">35755</guid>
 		<pubDate>2021-11-16</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116a.mp3?h=6JHiLiTm-HdtckizBJRvxg&e=1637606230" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116a.mp3?h=0OtRDSkjNGz1SMfVnyxu4Q&e=1638081465" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -98,7 +200,7 @@
 		<guid isPermaLink="false">35756</guid>
 		<pubDate>2021-11-16</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116b.mp3?h=6JHiLiTm-HdtckizBJRvxg&e=1637606230" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116b.mp3?h=0OtRDSkjNGz1SMfVnyxu4Q&e=1638081465" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -115,7 +217,7 @@
 		<guid isPermaLink="false">35757</guid>
 		<pubDate>2021-11-16</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116c.mp3?h=6JHiLiTm-HdtckizBJRvxg&e=1637606230" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211116c.mp3?h=0OtRDSkjNGz1SMfVnyxu4Q&e=1638081465" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -132,7 +234,7 @@
 		<guid isPermaLink="false">35725</guid>
 		<pubDate>2021-11-11</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111a.mp3?h=Z6hu9cpJ7Ik9YlU7QRaUUA&e=1637606232" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111a.mp3?h=kBGHSyOACbFScR-myT8PjA&e=1638081467" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -149,7 +251,7 @@
 		<guid isPermaLink="false">35726</guid>
 		<pubDate>2021-11-11</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111b.mp3?h=Z6hu9cpJ7Ik9YlU7QRaUUA&e=1637606232" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111b.mp3?h=kBGHSyOACbFScR-myT8PjA&e=1638081467" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -166,7 +268,7 @@
 		<guid isPermaLink="false">35727</guid>
 		<pubDate>2021-11-11</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111c.mp3?h=Z6hu9cpJ7Ik9YlU7QRaUUA&e=1637606232" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211111c.mp3?h=kBGHSyOACbFScR-myT8PjA&e=1638081467" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -183,7 +285,7 @@
 		<guid isPermaLink="false">35701</guid>
 		<pubDate>2021-11-09</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109a.mp3?h=8XjYhHWkK2Iy71K_-DM3Ug&e=1637606234" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109a.mp3?h=myyxKF4YUpyeWNPuYzILSw&e=1638081470" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -200,7 +302,7 @@
 		<guid isPermaLink="false">35702</guid>
 		<pubDate>2021-11-09</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109b.mp3?h=8XjYhHWkK2Iy71K_-DM3Ug&e=1637606234" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109b.mp3?h=myyxKF4YUpyeWNPuYzILSw&e=1638081470" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -217,7 +319,7 @@
 		<guid isPermaLink="false">35703</guid>
 		<pubDate>2021-11-09</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109c.mp3?h=8XjYhHWkK2Iy71K_-DM3Ug&e=1637606234" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211109c.mp3?h=myyxKF4YUpyeWNPuYzILSw&e=1638081470" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -234,7 +336,7 @@
 		<guid isPermaLink="false">35666</guid>
 		<pubDate>2021-11-04</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104a.mp3?h=w8Vq1eyovciINgh9iWxbbw&e=1637606237" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104a.mp3?h=l-oWeys1lxsMlYy63U8zng&e=1638081473" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -251,7 +353,7 @@
 		<guid isPermaLink="false">35667</guid>
 		<pubDate>2021-11-04</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104b.mp3?h=w8Vq1eyovciINgh9iWxbbw&e=1637606237" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104b.mp3?h=l-oWeys1lxsMlYy63U8zng&e=1638081473" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -268,7 +370,7 @@
 		<guid isPermaLink="false">35668</guid>
 		<pubDate>2021-11-04</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104c.mp3?h=w8Vq1eyovciINgh9iWxbbw&e=1637606237" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211104c.mp3?h=l-oWeys1lxsMlYy63U8zng&e=1638081473" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -285,7 +387,7 @@
 		<guid isPermaLink="false">35643</guid>
 		<pubDate>2021-11-02</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102a.mp3?h=QYh4y4ngJDKt1g_vHoUCgg&e=1637606240" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102a.mp3?h=wbom0NljTPngQ9yTf1HlQg&e=1638081475" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -302,7 +404,7 @@
 		<guid isPermaLink="false">35644</guid>
 		<pubDate>2021-11-02</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102b.mp3?h=QYh4y4ngJDKt1g_vHoUCgg&e=1637606240" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102b.mp3?h=wbom0NljTPngQ9yTf1HlQg&e=1638081475" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -319,7 +421,7 @@
 		<guid isPermaLink="false">35645</guid>
 		<pubDate>2021-11-02</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102c.mp3?h=QYh4y4ngJDKt1g_vHoUCgg&e=1637606240" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211102c.mp3?h=wbom0NljTPngQ9yTf1HlQg&e=1638081475" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -336,7 +438,7 @@
 		<guid isPermaLink="false">35613</guid>
 		<pubDate>2021-10-28</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028a.mp3?h=zuN6UAyuGEoIpsREW04rUQ&e=1637606242" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028a.mp3?h=CQgMA01b28-O3x_khYyPRg&e=1638081477" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -353,7 +455,7 @@
 		<guid isPermaLink="false">35614</guid>
 		<pubDate>2021-10-28</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028b.mp3?h=zuN6UAyuGEoIpsREW04rUQ&e=1637606242" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028b.mp3?h=CQgMA01b28-O3x_khYyPRg&e=1638081477" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -370,7 +472,7 @@
 		<guid isPermaLink="false">35615</guid>
 		<pubDate>2021-10-28</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028c.mp3?h=zuN6UAyuGEoIpsREW04rUQ&e=1637606242" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211028c.mp3?h=CQgMA01b28-O3x_khYyPRg&e=1638081477" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -387,7 +489,7 @@
 		<guid isPermaLink="false">35592</guid>
 		<pubDate>2021-10-26</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026a.mp3?h=9dePFWnAQS38BZDJsPxy1w&e=1637606246" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026a.mp3?h=ZzDtpEyREdmN9M7dB4FIjA&e=1638081480" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -404,7 +506,7 @@
 		<guid isPermaLink="false">35593</guid>
 		<pubDate>2021-10-26</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026b.mp3?h=9dePFWnAQS38BZDJsPxy1w&e=1637606246" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026b.mp3?h=ZzDtpEyREdmN9M7dB4FIjA&e=1638081480" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -421,7 +523,7 @@
 		<guid isPermaLink="false">35594</guid>
 		<pubDate>2021-10-26</pubDate>
 		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026c.mp3?h=9dePFWnAQS38BZDJsPxy1w&e=1637606246" />
+		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211026c.mp3?h=ZzDtpEyREdmN9M7dB4FIjA&e=1638081480" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>henry</itunes:author>
 		<itunes:subtitle>henry</itunes:subtitle>
@@ -432,108 +534,5 @@
 		<content:encoded />
 		<itunes:summary />
 	</item>
-	<item>
-		<title>Part 1 - 邵嵐希臘示威被捕，點都好過移民KOL／陳同佳案的法律解釋／國殤之柱移走毋須感傷，人人都係國殤之柱</title>
-		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
-		<guid isPermaLink="false">35556</guid>
-		<pubDate>2021-10-21</pubDate>
-		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211021a.mp3?h=L68ALbTyIDOgVUUiiVp2QA&e=1637606249" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:author>henry</itunes:author>
-		<itunes:subtitle>henry</itunes:subtitle>
-		<itunes:duration>30:00</itunes:duration>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
-		<description>henry</description>
-		<content:encoded />
-		<itunes:summary />
-	</item>
-	<item>
-		<title>Part 2 - 中大聯合書院學生會解散／香港三大法律系因社會事件排名大跌？咁點解清華大學法律系排名37？一直叫不應以大學排名作為評審大學標準，一直D人就係以排名論斷</title>
-		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
-		<guid isPermaLink="false">35557</guid>
-		<pubDate>2021-10-21</pubDate>
-		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211021b.mp3?h=L68ALbTyIDOgVUUiiVp2QA&e=1637606249" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:author>henry</itunes:author>
-		<itunes:subtitle>henry</itunes:subtitle>
-		<itunes:duration>30:00</itunes:duration>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
-		<description>henry</description>
-		<content:encoded />
-		<itunes:summary />
-	</item>
-	<item>
-		<title>Part 3 - BITCOIN ETF上市／唔好講滯漲，連通漲都係00後未遇過嘅事</title>
-		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
-		<guid isPermaLink="false">35558</guid>
-		<pubDate>2021-10-21</pubDate>
-		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211021c.mp3?h=L68ALbTyIDOgVUUiiVp2QA&e=1637606249" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:author>henry</itunes:author>
-		<itunes:subtitle>henry</itunes:subtitle>
-		<itunes:duration>30:00</itunes:duration>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
-		<description>henry</description>
-		<content:encoded />
-		<itunes:summary />
-	</item>
-	<item>
-		<title>Part 1 - 林鄭PK竟成全城慶賀網上頭條：上任之初努力成好人，終難擺脫共黨擺佈</title>
-		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
-		<guid isPermaLink="false">35532</guid>
-		<pubDate>2021-10-19</pubDate>
-		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211019a.mp3?h=QZc-IvyHId1UQLHjqGS6Kw&e=1637606252" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:author>henry</itunes:author>
-		<itunes:subtitle>henry</itunes:subtitle>
-		<itunes:duration>30:00</itunes:duration>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
-		<description>henry</description>
-		<content:encoded />
-		<itunes:summary />
-	</item>
-	<item>
-		<title>Part 2 - 商務部長Gina Raimondo發表保護私人建議書，宣佈放生TikTok、WeChat／富途牛牛被中共打壓有無危險？</title>
-		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
-		<guid isPermaLink="false">35533</guid>
-		<pubDate>2021-10-19</pubDate>
-		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211019b.mp3?h=QZc-IvyHId1UQLHjqGS6Kw&e=1637606252" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:author>henry</itunes:author>
-		<itunes:subtitle>henry</itunes:subtitle>
-		<itunes:duration>30:00</itunes:duration>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
-		<description>henry</description>
-		<content:encoded />
-		<itunes:summary />
-	</item>
-	<item>
-		<title>Part 3 - 八國聯軍是正義之師被禁定係自我審查？／淺談八國聯軍之役與其是否正義之師</title>
-		<link>https://www.mihk.tv/channel/index.php?route=mihk/archive&amp;program_id=205</link>
-		<guid isPermaLink="false">35534</guid>
-		<pubDate>2021-10-19</pubDate>
-		<author>henry</author>
-		<enclosure length="31279627" type="audio/mpeg" url="http://vps8097.youdomain.hk/protected/MIHK/File/Audio/henry/henry20211019c.mp3?h=QZc-IvyHId1UQLHjqGS6Kw&e=1637606252" />
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:author>henry</itunes:author>
-		<itunes:subtitle>henry</itunes:subtitle>
-		<itunes:duration>30:00</itunes:duration>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://cdn.mihk.tv/channel/8/image/program_cover/4bdb0ddc3b33010cf05196c1e868817d.jpg" />
-		<description>henry</description>
-		<content:encoded />
-		<itunes:summary />
-	</item>
-
 </channel>
 </rss>
