@@ -38,7 +38,9 @@ def read_xml(in_path):
     ET.register_namespace('itunes', 'http://www.itunes.com/dtds/podcast-1.0.dtd')
     ET.register_namespace('rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')
     ET.register_namespace('sy', 'ttp://purl.org/rss/1.0/modules/syndication/')
-    tree = ET.parse(in_path)
+    xmlp = ET.XMLParser(encoding="utf-8")
+
+    tree = ET.parse(in_path,parser=xmlp)
     return tree
 
 
