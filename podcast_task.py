@@ -9,7 +9,7 @@ from xml_praser import *
 import re
 from inser_item import *
 
-home_index = ["5","84"]
+home_index = ["sitdowncomedy"]
 # home_index = ["84"]
 
 page_link = 'http://www.passiontimes.hk'
