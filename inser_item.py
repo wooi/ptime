@@ -3,11 +3,14 @@
 from xml.etree.ElementTree import ElementTree,Element
 import xml.etree.ElementTree as ET
 debug = True
-xml_path =  "/root/podcast/test.xml"
-if debug:
-    xml_path = "/Users/Wooi/WorkSpace/ptime/pod-ptime/ptime.xml"
-else :
-    xml_path = "/usr/share/nginx/html/ptime.xml"
+from pathlib import Path
+
+xml_path = str(Path.cwd()) + '/ptime.xml'
+
+# if debug:
+#     xml_path = "/Users/Wooi/WorkSpace/ptime/pod-ptime/ptime.xml"
+# else :
+#     xml_path = "/usr/share/nginx/html/ptime.xml"
 
 def indent(elem, level=0):
     i = "\n" + level*"\t"
@@ -131,7 +134,7 @@ def write2xml(title_str,link_str,guid_str,pubDate_str,author_str,download_link):
     indent(nodes)
     # ET.dump(nodes)
     tree.write(xml_path, encoding="utf-8",xml_declaration=True)
-    print 'inser-suc'
+    print('inser-suc')
 
 
 # channel_map = {"5":"405","85":"731"}

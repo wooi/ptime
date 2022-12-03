@@ -25,10 +25,10 @@ def get_detail(urls,prog):
         infos = channel_content.find('h4',attrs={'class': 'byline'})
         author =  infos.find('span',attrs={'class':'host'}).a.string
         date =  infos.find('time',attrs={'class':'published'})['datetime']
-        print str(title.encode('utf-8'))+str(author.encode('utf-8'))+str(date.encode('utf-8'))
+        print(str(title.encode('utf-8'))+str(author.encode('utf-8'))+str(date.encode('utf-8')))
        
         if u'黃洋達' not in author:
-            print str(title.encode('utf-8'))+str(url)+' not 黃洋達 pass'
+            print(str(title.encode('utf-8'))+str(url)+' not 黃洋達 pass')
             continue
 
         #downlaod link
@@ -50,19 +50,19 @@ def get_detail(urls,prog):
                 # guid = prog+","+url.split('/')[-1]+","+index
                 guid = '{},{},{}'.format(prog,url.split('/')[-1],index)
                 write2xml(title_str=title_str,link_str=url,guid_str=guid,pubDate_str=date,author_str=author,download_link=download_link)    
-                print download_link
+                print(download_link)
 
 
 
 limit_id =get_cid()
-print limit_id
+print(limit_id)
 # for index in home_index:
 for index in home_index:
     limit = limit_id[index]
-    print 'limit:',limit
+    print('limit:',limit)
     home_link = page_link+"/prog/{}/".format(index)
     
-    print home_link
+    print(home_link)
     page_response = requests.get(home_link, timeout=60)
     html = page_response.content
     html2 = html.decode("utf8", "ignore").encode("utf", "ignore")
@@ -81,7 +81,7 @@ for index in home_index:
     if len(urls) >0:    
         get_detail(urls=urls,prog=index)
     else:
-        print 'not update'
+        print('not update')
 
 
 
