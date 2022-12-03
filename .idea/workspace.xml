@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf681011-e4c5-4898-8653-cd942a6f36e5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pod-ptime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pod-ptime.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/henry.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/henry_inser_item.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/henry_task.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/inser_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/inser_item.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/podcast_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/podcast_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml_praser.py" beforeDir="false" afterPath="$PROJECT_DIR$/xml_praser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +45,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -259,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639933962771</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new evn">
+      <created>1670080082746</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670080082746</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,12 +297,13 @@
     <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
@@ -316,15 +321,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="henry_task" />
-    <option name="LAST_COMMIT_MESSAGE" value="henry_task" />
+    <MESSAGE value="new evn" />
+    <option name="LAST_COMMIT_MESSAGE" value="new evn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/podcast_task.py</url>
-          <line>39</line>
+          <line>37</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/podcast_task.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/podcast_task.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
