@@ -25,6 +25,40 @@
 	<itunes:category text="Music" />
 	<itunes:category text="Sports &amp; Recreation" />
 	<item>
+		<title>笑死朕 第779集 - 21世紀最傑出二十套港產電影：第1位-第10位-2</title>
+		<link>http://www.passiontimes.hk/prog/HumorAndTheKing/779</link>
+		<guid isPermaLink="false">5,779,2</guid>
+		<pubDate>2025-12-19</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure url="https://ptmirror.passiontimes.hk/cache/05/779/king20251219b.mp3" length="31279627" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
+		<title>笑死朕 第779集 - 21世紀最傑出二十套港產電影：第1位-第10位-1</title>
+		<link>http://www.passiontimes.hk/prog/HumorAndTheKing/779</link>
+		<guid isPermaLink="false">5,779,1</guid>
+		<pubDate>2025-12-19</pubDate>
+		<author>黃洋達、陳秀慧</author>
+		<enclosure url="https://ptmirror.passiontimes.hk/cache/05/779/king20251219a.mp3" length="31279627" type="audio/mpeg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:author>PT</itunes:author>
+		<itunes:subtitle>黃洋達、陳秀慧</itunes:subtitle>
+		<itunes:duration>30:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://www.passiontimes.hk/4.0/favicons/android-chrome-192x192.png" />
+		<description>黃洋達、陳秀慧</description>
+		<content:encoded />
+		<itunes:summary />
+	</item>
+	<item>
 		<title>棟篤笑死朕Sit Down Comedy 第385集 - 海外黃絲網紅，自己搵交嗌造話題-2</title>
 		<link>http://www.passiontimes.hk/prog/sitdowncomedy/385</link>
 		<guid isPermaLink="false">sitdowncomedy,385,2</guid>
@@ -200,7 +234,7 @@
 		<guid isPermaLink="false">87,36,2</guid>
 		<pubDate>2025-12-01</pubDate>
 		<author>黃洋達、762、莊芷茵（法子）</author>
-		<enclosure url="https://ptmirror.passiontimes.hk/cache/87/036/afternoon20251201b.mp3" length="31279627" type="audio/mpeg" />
+		<enclosure url="https://ptmirror.passiontimes.hk/cache/87/036/afternoon20251201a.mp3" length="31279627" type="audio/mpeg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:author>PT</itunes:author>
 		<itunes:subtitle>黃洋達、762、莊芷茵（法子）</itunes:subtitle>
